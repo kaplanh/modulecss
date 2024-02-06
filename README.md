@@ -1,8 +1,8 @@
 # Module Css in React
 
-![qr code generator](https://github.com/kaplanh/qrCode_generator-master/assets/101884444/44eecacf-ff1e-4cec-9db4-689cbd3a76e0)
+![qr code generator]()
 
-[:point_right: Click here to see on browser]( https://kaplanh.github.io/qrCode_generator-master/)
+[:point_right: Click here to see on browser]( )
 
  **What's used in this app ?** |  **Author** |
 |----------|---------|------------
