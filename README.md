@@ -5,7 +5,7 @@
 [:point_right: Click here to see on browser]( )
 
  **What's used in this app ?** |  **Author** |
-|----------|---------|------------
+|----------|------------|
 |React - component |[Take a look at my portfolio](https://kaplanh.github.io/Portfolio_with_CssFlex/)|
 |React - props|[Visit me on Linkedin](https://www.linkedin.com/in/kaplan-h/)|
 |React - module.css||   
