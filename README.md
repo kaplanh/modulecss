@@ -101,22 +101,10 @@ Module Css in React(folder)
 
 ### At the end of the project, the following topics are to be covered;
 
-- API's
-  - [Random User API](https://randomuser.me/api)
-- HTML
-- Css
-- JS  
-   - fetch API                  
-  
-   - DOM Manipulations
-      - innerHTML
-  
-     
-    - DOM Selectors
-      - querySelector  
-    
-    - Events
-        - submit
+- Component
+- Props drilling
+- Module.css
+
  
 
 ## Feedback and Collaboration
