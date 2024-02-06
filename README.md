@@ -102,6 +102,8 @@ Module Css in React(folder)
 ### At the end of the project, the following topics are to be covered;
 
 - Component
+- JSX & JS
+- Inline Styling
 - Props drilling
 - Module.css
 
