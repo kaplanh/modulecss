@@ -5,7 +5,7 @@ function App() {
     console.log(data);
     return (
         <>
-            <h1>LANGUAGES</h1>
+            <h1 style={{textAlign:"center"}}>LANGUAGES</h1>
             {/* iteraston (3) */}
 
             {data.map(({ id, language, img, btnName }) => (
