@@ -37,7 +37,7 @@ yarn create react-app .  or npx create-react-app .
 ### 💻 Start the project 👇
 
 ```bash
-yarn start
+yarn start or npm start
 ```
 OR
 - <strong>Clone the Repo</strong>
