@@ -20,7 +20,7 @@
 ### 💻 Install React 👇
 
 ```bash
-yarn create react-app .
+yarn create react-app .  or npx create-react-app .
 ```
 
 ## 🔴 Delete these files and delete the imports👇
