@@ -39,7 +39,7 @@ yarn create react-app .  or npx create-react-app .
 ```bash
 yarn start
 ```
-or
+OR
 - <strong>Clone the repo</strong>
 
   ```sh
