@@ -40,7 +40,7 @@ yarn create react-app .  or npx create-react-app .
 yarn start
 ```
 OR
-- <strong>Clone the repo</strong>
+- <strong>Clone the Repo</strong>
 
   ```sh
   git clone
