@@ -2,7 +2,7 @@
 
 [:point_right: Click here to see on browser](https://modulecss.vercel.app/ )
 
-![modulecss](https://github.com/kaplanh/clarusway-full-stack-tr-14-Frontend-/assets/101884444/bb4e4f2b-3b25-4c98-a843-02fbae824c33)
+![modulecss]()
 
 
  **What's used in this app ?** |  **Author** |
